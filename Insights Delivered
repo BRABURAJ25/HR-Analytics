@@ -1,0 +1,24 @@
+1. Overall Attendance Rate
+•	What is the total attendance rate (P + WFO + WHO) vs. Absentees (A) across the 3 months?
+2. Employee-Wise Attendance
+•	Which employees have the highest and lowest attendance?
+•	Are there any employees who were absent for more than X days?
+3. Trends by Month
+•	How does attendance trend month-by-month (April vs May vs June)?
+•	Was there a sudden drop in attendance in any specific month?
+4. Remote vs Onsite Analysis
+•	What percentage of working days were WFO (Work from Office) vs. WHO (Work from Home)?
+•	Which employees worked from home the most?
+5. Weekly Pattern Check
+•	Are there specific weekdays where absences are more frequent (e.g., Mondays or Fridays)?
+•	Is there a pattern in employees taking long weekends?
+6. Late Joining/Leave Pattern
+•	Do some employees consistently start the month with more absences or end the month with them?
+8. Unusual Behavior
+•	Are there any employees with alternating patterns like P, A, P, A continuously?
+•	Any suspicious patterns that could signal proxy attendance?
+9. Holiday/Leave Impact
+•	Is there a spike in absences around public holidays or long weekends?
+10. Total Working Days
+•	How many working days did each employee complete (excluding holidays if any)?
+
