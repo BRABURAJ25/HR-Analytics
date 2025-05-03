@@ -88,14 +88,4 @@ Found a pattern where most employees preferred WFH on Fridays😅, while Mondays
 
 ✅Used Power Query to combine all data into a single sheet, which made filtering easier and improved the overall analysis process 
 
-
-
-Check out - https://github.com/BRABURAJ25/HR-Analytics 
-
-
-
-Thank you Dhaval Patel, Hemanand Vadivel & Codebasics for making such a interactive learning🙌
-
-
-
-#HRAnalytics #PowerBI #WFHTrends #EmployeeInsights #DataVisualization #ProblemSolving
+Thank you!
