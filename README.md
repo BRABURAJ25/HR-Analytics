@@ -80,7 +80,7 @@ To analyze employee attendance patterns and generate performance insights using 
 
 
 
-Found a pattern where most employees preferred WFH on Fridays😅, while Mondays had higher in-office attendance.
+Found a pattern where most employees preferred WFH on Fridays, while Mondays had higher in-office attendance.
 
 
 
