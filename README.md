@@ -1,7 +1,6 @@
 HR Analytics Project📊
 
 
-
 This project focuses on generating insights from an employee attendance dataset using Excel & Power BI.
 
 
